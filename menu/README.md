@@ -1,1 +1,1 @@
-Twintris menu source code supplied by Svein Berg, the original programmer of the game!
+Twintris menu source code supplied by Svein Berge, the original programmer of the game!
